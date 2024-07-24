@@ -6,6 +6,6 @@ Most of them are from <a href="https://slothbytes.beehiiv.com/subscribe?ref=HMRl
 Challenges are as following:
 
 <ul>
-  <li>C1:Check Title String </li>
+  <li>C1: Check Title String </li>
   
 </ul>
