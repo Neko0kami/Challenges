@@ -1,4 +1,4 @@
-# Checkin if the capitalized list is equal to the original
+# Checking if the capitalized list (lst) is equal to the original
 def check_title(s):
     global copy
     copy = s.split()
@@ -7,7 +7,7 @@ def check_title(s):
     else:
         print ("False")   
 
-# Capitalizing first letter of every element in list 
+# Capitalizing first letter of every element in list (lst)
 def capitalize(n):
     for i in copy:
         lst.append(i.capitalize())
