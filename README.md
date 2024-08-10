@@ -7,5 +7,6 @@ Challenges are as following:
 
 <ul>
   <li>C1 and C1(2): Check Title String </li>
+  <li>C2: Count Smileys</li>
   
 </ul>
