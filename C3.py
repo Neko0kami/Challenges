@@ -1,12 +1,11 @@
 def waldo(arr):
-    not_waldo =[]
-    
     for i in range(len(arr)):
         for j in range(len(arr[i])):
        
-          if arr[i][j] == arr[0][1]:
-              not_waldo = arr[i][j]
-              break
+          if arr[0][0] == arr[0][1]:
+              not_waldo = arr[0][0]
+          else:
+              not_waldo = arr[0][2]
     find_waldo(arr,not_waldo)
     
 
