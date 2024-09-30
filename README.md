@@ -9,5 +9,6 @@ Challenges are as following:
   <li>C1 and C1(2): Check Title String </li>
   <li>C2: Count Smileys</li>
   <li>C3: Find Waldo</li>
+  <li>C4: Min to Sec</li>
   
 </ul>
